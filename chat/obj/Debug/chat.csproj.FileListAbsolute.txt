@@ -1,0 +1,10 @@
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\bin\Debug\chat.exe.config
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\bin\Debug\chat.exe
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\bin\Debug\chat.pdb
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.csprojAssemblyReference.cache
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.Form1.resources
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.Properties.Resources.resources
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.csproj.GenerateResource.cache
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.exe
+C:\Users\79067\OneDrive\Рабочий стол\chat\chat\obj\Debug\chat.pdb
